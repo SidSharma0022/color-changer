@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button{
+    border: 1px solid black;
+    height: 70px;
+    width: 70px;
+    margin: 20px;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#orange{
+    background-color: orange;
+}
+#white{
+    background-color: white;
+}
+#grey{
+    background-color: grey;
+}
+#purple{
+    background-color: purple;
+}
+#blue{
+    background-color: blue;
+}
